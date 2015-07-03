@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Work/libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/jaxbWS/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/jaxbWS/jaxb-xjc-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/jaxbWS/jaxws-rt-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/jaxbWS/stax-ex.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/jaxbWS/streambuffer.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/jaxbWS/xws-security-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/libs/javax.servlet-2.5.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
